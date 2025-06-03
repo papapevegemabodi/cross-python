@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+Mikhlevskyi/
+
+# Editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker volumes or data
+pgdata/
+*.log
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# OS generated
+*.swp
+*.swo
